@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+
+
+#prompt{
+   width: 100%;
+   /* Terminal-like font */
+    font-family: monospace;
+    /* Background color */
+    background-color: #1d1f21;
+    /* Text color */
+    color: #56e1e1;
+    /* Padding */
+    padding: 30px;
+    /* Border */
+    border: solid 1px #f8f8f2;
+    /* Terminal-like cursor */
+    cursor: text;
+    /* Terminal-like text selection */
+    letter-spacing: 0.1em;
+}
